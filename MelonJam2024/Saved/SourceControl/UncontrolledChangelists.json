@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/dhanjiradh/Melon-Jam-2024/MelonJam2024/Content/GameContent/Maps/RiverLevel_HLOD0_Instancing.uasset",
 				"C:/Users/dhanjiradh/Melon-Jam-2024/MelonJam2024/Content/__ExternalActors__/GameContent/Maps/RiverLevel/2/SV/VO19A8K59B0NFT8WVCV2RU.uasset",
 				"C:/Users/dhanjiradh/Melon-Jam-2024/MelonJam2024/Content/__ExternalObjects__/GameContent/Maps/RiverLevel/0/M9/7JGBQTHWQ9CQWO304XXXWH.uasset",
@@ -432,6 +433,13 @@
 				"C:/Users/dhanjiradh/MelonJam2024/Content/StarterContent/Architecture/Wall_Window_400x300.uasset",
 				"C:/Users/dhanjiradh/MelonJam2024/Content/StarterContent/Architecture/Wall_Window_400x400.uasset",
 				"C:/Users/dhanjiradh/MelonJam2024/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+=======
+				"I:/Melon-Jam-2024/MelonJam2024/Content/FirstPerson/Input/IMC_Default.uasset",
+				"I:/Melon-Jam-2024/MelonJam2024/Content/__ExternalActors__/GameContent/Maps/RiverLevel/0/ES/PNDRJ9TNO0O8IFWVZ4AYXF.uasset",
+				"I:/Melon-Jam-2024/MelonJam2024/Content/GameContent/Blueprints/BP_ChickenGameMode.uasset",
+				"I:/Melon-Jam-2024/MelonJam2024/Content/__ExternalActors__/GameContent/Maps/RiverLevel/D/4B/F473PLN618BXWLZNHKQII9.uasset",
+				"I:/Melon-Jam-2024/MelonJam2024/Content/GameContent/Blueprints/Player/PlayerCharacter.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
