@@ -1,0 +1,6 @@
+2024/07/20-15:44:14.418 2ea0 Creating DB I:/Melon-Jam-2024/MelonJam2024/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/07/20-15:44:14.512 2ea0 Reusing MANIFEST I:/Melon-Jam-2024/MelonJam2024/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/20-15:47:04.328 378 Level-0 table #5: started
+2024/07/20-15:47:04.352 378 Level-0 table #5: 1299 bytes OK
+2024/07/20-15:47:04.356 378 Delete type=0 #3
+2024/07/20-15:47:04.369 378 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
